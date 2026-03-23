@@ -14,7 +14,7 @@ icon: "file-code"
 
 <CardGroup cols={2}>
   <Card title="What is YAML?" icon="circle-question" href="#what-is-yaml">
-    Introduction and basics
+    Introduction and basics.
   </Card>
   <Card title="Basic Syntax" icon="code" href="#basic-syntax">
     Key-value pairs and comments
