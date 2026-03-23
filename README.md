@@ -1,5 +1,5 @@
 ---
-title: "YAML Complete Course"
+title: "YAML Complete Course."
 description: "A comprehensive developer's guide to YAML - from basics to advanced techniques"
 icon: "file-code"
 ---
